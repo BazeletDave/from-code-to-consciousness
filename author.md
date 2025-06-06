@@ -1,0 +1,15 @@
+# About the Author
+
+David Grand is a visionary entrepreneur, researcher, and technologist whose groundbreaking work lies at the intersection of artificial intelligence, public safety, and ethical innovation. With over 25 years of global business leadership, Grand has built a career defined by transformative ventures, principled leadership, and a deep commitment to using technology for the public good.
+
+His entrepreneurial path began early selling fruit from his family’s backyard fruit trees as a teenager, a sign of the resourcefulness that would define his career. By college, he had already studied under global business minds and began his rise through one of the world’s largest sales organizations. Over the next decade, Grand launched and ran offices across the U.S. and abroad, spearheading major campaigns for professional sports teams, resorts, restaurants, and entertainment brands. His work was often credited with year-round revenue growth. More than a leader, he was a mentor developing through a rigorous management training program that helped launch the careers of dozens of entrepreneurs. Many of them, Grand proudly notes, went from entry level interviews to becoming millionaires today all who now impact society in their own distinct ways.
+
+Grand’s most notable achievement was co-founding Bazelet, a pioneering plant-based company that reshaped the conversation around cannabis innovation and was later acquired by a publicly traded firm. He founded The Grand Research Institute, today an acclaimed Florida-based think tank leading breakthroughs in AI governance, sustainability analytics, and public safety technologies. Under his daily leadership, the institute has launched global evaluation tools for AI ethics and developed open source platforms for corporate sustainability reporting aligned with (GRI) standards.
+
+Currently at the Thunderbird School of Global Management at Arizona State University. Dean’s List for outstanding academic performance and also in 2024 earned a certificate in Resilient American Futures from ASU’s College of Global Futures, reflecting his commitment to sustainable development and long-term thinking in governance. In 2024, he was inducted into the National Society of Leadership and Success, the nation’s largest leadership honor society. Grand blends academic rigor with real world experience to confront the challenges of the Fourth Industrial Revolution. In 2025, he became a member of the American Association for the Advancement of Science (AAAS), a prestigious organization committed to advancing science, engineering, and innovation worldwide, with his membership associated with Thunderbird.
+
+His recent work with Uber is redefining safety, accountability, and transparency across algorithm-driven sectors from gig work and global ride-hailing services to autonomous vehicle policy.
+
+David Grand continues to shape the future through thoughtful leadership, ethical innovation, and a relentless drive to ensure technology serves humanity not the other way around.
+
+Book published 2025 by Grand Research Institute, LLC
