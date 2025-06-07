@@ -1,0 +1,8 @@
+# Rename the folder locally
+git mv 7D7A7D55-4EEF-4908-AFBB-FDC0858D51 Book
+
+# Commit the change with a message
+git commit -m "Rename folder to Book"
+
+# Push the change to the remote GitHub repo
+git push origin main BookCover 
