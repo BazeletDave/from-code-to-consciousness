@@ -15,7 +15,7 @@ For political leaders, executives, researchers, and engaged citizens, the centra
 
 The book's call to action is to help shape the emerging Logic Age through conscious leadership. Understanding the systems around us is the first step. Designing institutions that embed human values into their rules is the enduring task.
 
-**Ranked #871 in Leadership (Kindle Store), placing it within the category's Top 1,000.** Ranking recorded October 9, 2026, from the author's Amazon screenshot.
+**Ranked #871 in Leadership (Kindle Store), placing it within the category's Top 1,000.** Ranking recorded October 9, 2026.
 
 **[Explore the book on Amazon](https://www.amazon.com/dp/B0FGB1BXF1)**  
 First edition published July 7, 2025. English language Kindle edition: 172 pages. ASIN: B0FGB1BXF1.
