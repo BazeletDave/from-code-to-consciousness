@@ -1,5 +1,7 @@
 # From Code to Consciousness
 
+![From Code to Consciousness by David Grand, on Amazon and Audible](images/book-showcase.jpeg)
+
 An AI-powered platform and the new book by David Grand exploring the algorithmic life shaping the Fourth Industrial Revolution.  
 This work delves into how algorithms govern reality, labor, biology, sovereignty, climate, finance, and creativity, highlighting the urgent need for ethical frameworks and global leadership.  
 
