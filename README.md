@@ -14,8 +14,8 @@ Select a chapter title to open its full image.
 
 1. [Chapter 1: The End of Reality – Technology, Choice, and the Algorithmic Frame](images/chapter1.jpeg)  
 2. [Chapter 2: From Labor to Life – Platforms, Feedback Loops, and AI Governance](images/chapter2.jpeg)  
-3. [Chapter 3: The DNA of Control – Genetics, Plants, and Programmable Biology](images/chapter3.jpeg)  
-4. [Chapter 4: Algorithmic Sovereignty – Biometric Borders and Digital Diplomacy](images/chapter4.jpeg)  
+3. [Chapter 3: The DNA of Control – Genetics, Plants, and Programmable Biology](images/chapter3-complete.jpeg)  
+4. [Chapter 4: Algorithmic Sovereignty – Biometric Borders and Digital Diplomacy](images/chapter4-complete.jpeg)  
 5. [Chapter 5: Earth Code – Energy, Climate, and the Nervous System of the Planet](images/chapter5.jpeg)  
 6. [Chapter 6: The Neuroalgorithm – Cannabis, Impairment, and Real-Time AI Health Systems](images/chapter6.jpeg)  
 7. [Chapter 7: The Algorithmic Canvas – Art, AI, and the Future of Creativity](images/chapter7.jpeg)  
