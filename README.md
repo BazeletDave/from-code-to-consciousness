@@ -20,6 +20,32 @@ The book's call to action is to help shape the emerging Logic Age through consci
 **[Explore the book on Amazon](https://www.amazon.com/dp/B0FGB1BXF1)**  
 First edition published July 7, 2025. English language Kindle edition: 172 pages. ASIN: B0FGB1BXF1.
 
+## The Back Door | Fiction. How Close to Reality?
+
+**A new novel by David Grand, author of *From Code to Consciousness*.**
+
+*From Code to Consciousness* examines how algorithms reshape work, power, and institutional responsibility. *The Back Door* carries those questions into fiction: a thriller about the engineers who build intelligent systems, the officials who authorize them, and the people who must live with their decisions.
+
+The novel is fiction. The leadership questions it raises belong to the present: who sets the rules, who can challenge a decision, and who remains accountable when a system follows its instructions but produces an unacceptable outcome?
+
+### From Personal Authority to Algorithmic Management
+
+**[Watch the clip: Sinatra, Rickles, and a conversation about authority](https://www.youtube.com/shorts/mR-54MofrAk)**
+
+Grand uses this entertainment clip as a cultural starting point for reflecting on personal authority, hierarchy, and influence. It invites a comparison with management increasingly exercised through software: allocating tasks, evaluating performance, shaping incentives, and controlling access to information.
+
+**Algorithmic management is the central focus of David Grand's research.** This includes both the management functions performed by algorithms and the leadership required to govern those systems. AI, machine learning, agentic models, and the prospect of superintelligence sharpen the questions of delegation, oversight, and responsibility.
+
+Building on his studies at Thunderbird School of Global Management, Grand connects global leadership and institutional governance with the management of intelligent systems embedded in organizations and physical infrastructure.
+
+### What Comes Next?
+
+As machines gain greater capacity to act, leaders must decide what authority to delegate, what evidence to require, and how to preserve meaningful human intervention.
+
+*The Back Door* asks readers to imagine the consequences of those decisions.
+
+**When the system follows every rule, who takes responsibility for the result?**
+
 ## About David Grand
 
 David Grand lives in Florida and is the founder of Grand Research Institute. His work draws on more than two decades of experience across global business, entrepreneurship, and multiple industries, with a focus on artificial intelligence, management, and institutional governance.
