@@ -20,9 +20,9 @@ The book's call to action is to help shape the emerging Logic Age through consci
 **[Explore the book on Amazon](https://www.amazon.com/dp/B0FGB1BXF1)**  
 First edition published July 7, 2025. English language Kindle edition: 172 pages. ASIN: B0FGB1BXF1.
 
-## The Back Door | Fiction. How Close to Reality?
+## Coming Soon: The Back Door, a New Novel by David Grand
 
-**A new novel by David Grand, author of *From Code to Consciousness*.**
+From the author of *From Code to Consciousness*.
 
 *From Code to Consciousness* examines how algorithms reshape work, power, and institutional responsibility. *The Back Door* carries those questions into fiction: a thriller about the engineers who build intelligent systems, the officials who authorize them, and the people who must live with their decisions.
 
