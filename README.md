@@ -10,10 +10,10 @@ By David Grand
 
 ## 📚 Table of Contents
 
-1. [Chapter 1: The End of Reality – Technology, Choice, and the Algorithmic Frame](readme/chapter1.md)  
-2. [Chapter 2: From Labor to Life – Platforms, Feedback Loops, and AI Governance](readme/chapter2.md)  
-3. [Chapter 3: The DNA of Control – Genetics, Plants, and Programmable Biology](readme/chapter3.md)  
-4. [Chapter 4: Algorithmic Sovereignty – Biometric Borders and Digital Diplomacy](readme/chapter4.md)  
+1. [Chapter 1: The End of Reality – Technology, Choice, and the Algorithmic Frame](images/chapter1.jpeg) · [Read chapter](readme/chapter1.md)  
+2. [Chapter 2: From Labor to Life – Platforms, Feedback Loops, and AI Governance](images/chapter2.jpeg) · [Read chapter](readme/chapter2.md)  
+3. [Chapter 3: The DNA of Control – Genetics, Plants, and Programmable Biology](images/chapter3.jpeg) · [Read chapter](readme/chapter3.md)  
+4. [Chapter 4: Algorithmic Sovereignty – Biometric Borders and Digital Diplomacy](images/chapter4.jpeg) · [Read chapter](readme/chapter4.md)  
 5. [Chapter 5: Earth Code – Energy, Climate, and the Nervous System of the Planet](readme/chapter5.md)  
 6. [Chapter 6: The Neuroalgorithm – Cannabis, Impairment, and Real-Time AI Health Systems](readme/chapter6.md)  
 7. [Chapter 7: The Algorithmic Canvas – Art, AI, and the Future of Creativity](readme/chapter7.md)  
