@@ -2,11 +2,27 @@
 
 ![From Code to Consciousness by David Grand, on Amazon and Audible](images/book-showcase.jpeg)
 
-An AI-powered platform and the new book by David Grand exploring the algorithmic life shaping the Fourth Industrial Revolution.  
-This work delves into how algorithms govern reality, labor, biology, sovereignty, climate, finance, and creativity, highlighting the urgent need for ethical frameworks and global leadership.  
+## Book Overview
 
-Our goal is to build an ecosystem of leaders to guide AI development consciously and collaboratively, ensuring technology serves humanity’s collective future with dignity and purpose. 
-By David Grand
+**From Code to Consciousness: Algorithmic Life and Global Governance in the Fourth Industrial Revolution**  
+**By David Grand | Published by Grand Research Institute**
+
+Algorithms increasingly shape what we see, how we work, how capital moves, and how institutions exercise authority. In *From Code to Consciousness*, David Grand examines the leadership challenge at the center of this transformation: who establishes the rules, who benefits from them, and who remains accountable when intelligent systems influence human lives?
+
+Across fourteen chapters, the book connects artificial intelligence with labor, programmable biology, biometric borders, climate, finance, creativity, and personal identity. It explores how systems built to predict, rank, and optimize can become instruments of governance, affecting access to opportunity, the distribution of power, and the boundaries of individual choice.
+
+For political leaders, executives, researchers, and engaged citizens, the central question extends beyond technological capability. It concerns institutional responsibility: how can societies preserve human judgment, dignity, and public accountability as algorithms become embedded in the infrastructure of everyday life? Grand brings these questions together through a global management perspective, connecting decisions within organizations to their consequences across economies and borders.
+
+The book's call to action is to help shape the emerging Logic Age through conscious leadership. Understanding the systems around us is the first step. Designing institutions that embed human values into their rules is the enduring task.
+
+**[Explore the book on Amazon](https://www.amazon.com/dp/B0FGB1BXF1)**  
+First edition published July 7, 2025. English language Kindle edition: 172 pages. ASIN: B0FGB1BXF1.
+
+## About David Grand
+
+David Grand lives in Florida and is the founder of Grand Research Institute. His work draws on more than two decades of experience across global business, entrepreneurship, and multiple industries, with a focus on artificial intelligence, management, and institutional governance.
+
+He graduated magna cum laude in global management from the Thunderbird School of Global Management at Arizona State University. He is currently completing a master's in leadership and management at Thunderbird with a specialization in artificial intelligence, with completion expected in 2027.
 
 ---
 
@@ -31,11 +47,11 @@ Select a chapter title to open its full image.
 
 ---
 
-## 🔍 Overview
+## Research and Leadership Mission
 
-This book explores how algorithms have redefined human systems — from labor and biology to identity and governance. Through chapters that span AI, neuroscience, economics, plant science, and ethics, this project calls for new models of leadership, law, and consciousness in the age of code.
+Grand Research Institute connects this publication with an evolving research journey in AI, management, and governance. Its mission is to build an ecosystem of leaders who can guide technological development with institutional discipline, ethical responsibility, and a commitment to shared human prosperity.
 
-> “The Fourth Industrial Revolution is not about machines. It’s about logic, ethics, and the human soul.”
+This repository provides a visual companion to the book and a point of entry for discussion, research, and collaboration.
 
 ---
 
