@@ -24,6 +24,8 @@ First edition published July 7, 2025. English language Kindle edition: 172 pages
 
 From the author of *From Code to Consciousness*.
 
+**[Enter The Back Door: Explore the novel and game](https://back-door-october-4-original.vercel.app/)**
+
 *From Code to Consciousness* examines how algorithms reshape work, power, and institutional responsibility. *The Back Door* carries those questions into fiction: a thriller about the engineers who build intelligent systems, the officials who authorize them, and the people who must live with their decisions.
 
 The novel is fiction. The leadership questions it raises belong to the present: who sets the rules, who can challenge a decision, and who remains accountable when a system follows its instructions but produces an unacceptable outcome?
